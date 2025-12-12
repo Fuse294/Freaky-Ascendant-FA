@@ -116,6 +116,7 @@ SubclassesForClass6
 	Subclass10	"h10_Grogu"
 	Subclass11	"asg10_JKindredProtect"
 	Subclass12	"asg10_JKindredAbsorb"
-	Subclass14	"asg10_RahmKota"
+	Subclass13	"asg10_RahmKota"
+	Subclass14	"asg10_JForce"
 }
 
