@@ -1,7 +1,7 @@
 //Siege class def file
 ClassInfo
 {
-	name		"h9_JKnight"
+	name		"asg9_JKnight"
 	weapons		WP_MELEE|WP_SABER
 	attributes	MB_ATT_FORCEFOCUS,1|MB_ATT_FP_SABER_DEFENSE,0|MB_ATT_GUN_DEFENSE,0|MB_ATT_DEFLECT,0|MB_ATT_SABER_MEDIUM,2
 	speed		1
