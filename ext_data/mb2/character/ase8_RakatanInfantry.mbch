@@ -3,7 +3,7 @@
 ClassInfo
 {
 	name		"RakatanInfantry"
-	MBClass		MB_CLASS_JEDI
+	MBClass		MB_CLASS_WOOKIE
 	weapons		WP_SABER|WP_MELEE
 	WP_BlasterPistolFlags HELD_PULSE|HELD_AMMOREGEN
 	WP_RepeaterFlags HELD_AMMOREGEN
@@ -28,6 +28,7 @@ ClassInfo
 	rankArmor	25,50,75
 	basespeed	215
 	skilltimermod	3.0
+	damageTaken		0.85
 	
 	special1 EAS_MELEE
 	special2 EAS_FP_RAGE
@@ -245,7 +246,7 @@ StartSound	"sound/chars/rakata/misc/pain100.wav"
 LoopSound	"sound/chars/rakata/misc/death1.wav"
 }
 
-description "Rakatan Infantry [Sith]
+description "Rakatan Infantry [Wookie]
 
 A Rakatan soldier hailing from the Infinite Empire era with front and backline options.
 
@@ -269,3 +270,4 @@ A Rakatan soldier hailing from the Infinite Empire era with front and backline o
 - Strength (2)
 - Fury (2)
 - 300% Longer Skill CD"
+
