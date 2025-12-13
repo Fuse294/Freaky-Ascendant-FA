@@ -15,7 +15,7 @@ ClassInfo
 	maxarmor    10
  	basespeed 	236
 	damageTaken  1
-	saberDamage 130
+	saberDamage 120
 	forcepool	80
 	
 	saber1		electrostaff_legends
@@ -115,5 +115,6 @@ Mobile saberist with high dueling stats and armor regen.
 - Anti-Mind Trick (2)
 - Assemble (3)
 - Dash (1) ^3[CS3]
+
 
 
