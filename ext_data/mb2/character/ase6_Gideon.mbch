@@ -48,9 +48,14 @@ ClassInfo
 	WP_MandoPistolFlags	HELD_STUN|HELD_ALTRELOAD
 	
 	modelScale 1
+	
 	model	"Gideon"
 	skin	"default"
 	uishader  	"models/players/Gideon/mb2_icon_default"
+	
+	model_1	"moff_gideon"
+	skin_1	"default"
+	uishader_1  	"models/players/_moff_gideon/mb2_icon_default"
 	
 	isCustomBuild	1
 	mbPoints	50
