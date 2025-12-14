@@ -7,7 +7,7 @@ ClassInfo
         saber1                  saber_x1
         sabercolor              0
         saberstyle              SS_MEDIUM|SS_STRONG|SS_FAST
-        attributes	        MB_ATT_FORCEBLOCK,2|MB_ATT_DEFLECT,3|MB_ATT_FP_SABER_DEFENSE,3|MB_ATT_GUN_DEFENSE,3|MB_ATT_FORCEFOCUS,2|MB_ATT_ROSH_TAUNT
+        attributes	        MB_ATT_FORCEBLOCK,2|MB_ATT_DEFLECT,3|MB_ATT_FP_SABER_DEFENSE,3|MB_ATT_GUN_DEFENSE,3|MB_ATT_FORCEFOCUS,2|MB_ATT_ROSHTAUNT
         forcepowers             FP_LEVITATION,3|FP_PUSH,3|FP_PULL,2|FP_SABERTHROW,3|FP_LIGHTNING,3|FP_SEE,3|FP_PROTECT,2
         forcepool               150
 	maxhealth		150
