@@ -14,7 +14,7 @@ ClassInfo
 	model			"pic"
 	skin			"default"
 	uishader		"models/players/pic/icon_default"
-	modelscale		0.68
+	modelscale		0.63
 	MBClass			MB_CLASS_JEDI
 	classNumberLimit	1
 	special1		EAS_FP_TEAM_HEAL
