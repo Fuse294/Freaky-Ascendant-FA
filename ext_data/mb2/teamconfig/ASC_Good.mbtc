@@ -17,7 +17,7 @@ Classes
 SubclassesForClass1
 {
 	Subclass1	"h1_NPrisoner"
-	Subclass2	"h1_RebelET"
+	Subclass2	"asg1_RebelET"
 	Subclass3	"h1_SecurET"
 	Subclass4	"h1_OldRepET"
 	subclass5 	"h1_TORtroop"
