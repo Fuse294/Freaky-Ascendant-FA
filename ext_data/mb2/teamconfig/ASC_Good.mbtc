@@ -7,7 +7,7 @@ EUAllowed 0
 Classes
 {
 	class1	"h1_Rebel"
-	class2	"h3_Clone"
+	class2	"asg3_Clone"
 	class3	"h5_CloneJet"
 	class4	"h7_Scavenge"
 	class5	"h9_JYoung"
@@ -18,7 +18,7 @@ SubclassesForClass1
 {
 	Subclass1	"h1_NPrisoner"
 	Subclass2	"asg1_RebelET"
-	Subclass3	"h1_SecurET"
+	Subclass3	"asg1_SecurET"
 	Subclass4	"h1_OldRepET"
 	subclass5 	"h1_TORtroop"
 	Subclass6	"asg2_Padme" 
