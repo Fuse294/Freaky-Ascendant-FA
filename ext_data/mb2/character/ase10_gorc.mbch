@@ -20,10 +20,6 @@ ClassInfo
 	forceregen   	0.9
 	damagetaken		0.8
 
-	APmultiplier 		1.15
-	BPmultiplier 		1.2
-	ASmultiplier 		1.05
-	CSmultiplier 		1.05
 	saberstyle	SS_TAVION|SS_DESANN
 	model		"gorc"
 	skin			"default"
