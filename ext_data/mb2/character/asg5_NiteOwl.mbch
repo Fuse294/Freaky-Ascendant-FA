@@ -32,7 +32,7 @@ resourceRegenCap 50
 resourceRegenAmount 1
 resourceRegenRate 5000
 WP_E22Flags HELD_ALTRELOAD
-WP_BlasterFlags HELD_ALTRELOAD|HELD_IGNOREBLOCK
+WP_BlasterFlags HELD_ALTRELOAD|HELD_POISON
 WP_DLT20AFlags HELD_ALTRELOAD
 WP_BlasterPistolFlags HELD_ALTRELOAD
 WP_ProjFlags HELD_ALTRELOAD|HELD_DISRUPTIFY
@@ -230,7 +230,7 @@ animStand BOTH_THERMAL_READY2
 clipSize 6
 customAmmo 48
 rateMod 2
-damageMod 1.1
+damageMod 1.5
 primGore 1
 }
 WeaponInfo7
