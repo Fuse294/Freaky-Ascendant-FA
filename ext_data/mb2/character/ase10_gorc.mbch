@@ -19,6 +19,7 @@ ClassInfo
 	forcepool 		110
 	forceregen   	0.9
 	damagetaken		0.8
+	asmultiplier	0.8
 
 	saberstyle	SS_TAVION|SS_DESANN
 	model		"gorc"
