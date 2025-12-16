@@ -57,6 +57,8 @@ SubclassesForClass2
 	Subclass18	"asg3_handmaiden"
 	Subclass19	"asg3_baodur"
 	subclass20	"asg3_itsatrap"
+	Subclass21 "asg3_P1Clone"
+	Subclass22 "asg3_ReconClone"
 }
 
 SubclassesForClass3
@@ -77,7 +79,7 @@ SubclassesForClass3
 SubclassesForClass4
 {
 	Subclass1	"h7_Spy"
-	Subclass2 	"h7_RebSapper"
+	Subclass2 	"asg7_RebSapper"
 	Subclass3	"asg7_RebSpecOps"
 	Subclass4	"h7_CloneAss"
 	Subclass5	"h7_Hera"
@@ -121,8 +123,8 @@ SubclassesForClass6
 	Subclass8	"h10_JApostate"
 	Subclass9	"h10_Rosh"
 	Subclass10	"h10_Grogu"
-	Subclass11	"asg10_JKindredProtect"
-	Subclass12	"asg10_JKindredAbsorb"
+	Subclass11	"asg10_JKindredOne"
+	Subclass12	"asg10_JKindredTwo"
 	Subclass13	"asg10_RahmKota"
 	Subclass14	"asg10_JForce"
 	Subclass15	"asg10_jaden"
