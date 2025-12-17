@@ -12,7 +12,8 @@ if your PR contains visible in-game changes you can provide screenshots/videos o
 -->
 
 ## Checks
-<!-- check boxes for faster reviewing of your PR -->
+<!-- check boxes for faster reviewing of your PR 
+replace the space in the brackets with X to place a checkmark-->
 
 - [ ] I require assistance to complete the PR
 - [ ] Before posting/requesting review of a PR, I have verified that the changes work
