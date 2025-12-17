@@ -45,35 +45,31 @@ ClassInfo
 	special4 EAS_FP_LIGHTNING
 
 isCustomBuild	1
-mbPoints	6
+mbPoints	5
 
 	c_att_skill_0	MB_ATT_RESPAWNS
 	c_att_names_0	"Reinforcement"
-	c_att_ranks_0	4
+	c_att_ranks_0	3
 
-	c_att_skill_1	MB_ATT_FP_PULL
-	c_att_names_1	"Force Pull"
+	c_att_skill_1	MB_ATT_FP_LIGHTNING
+	c_att_names_1	"Force Lightning ^3[CS4]"
 	c_att_ranks_1	1,0
 
-	c_att_skill_2	MB_ATT_FP_LIGHTNING
-	c_att_names_2	"Force Lightning ^3[CS4]"
+	c_att_skill_2	MB_ATT_FP_GRIP
+	c_att_names_2	"Force Grip"
 	c_att_ranks_2	1,0
-
-	c_att_skill_3	MB_ATT_FP_GRIP
-	c_att_names_3	"Force Grip"
-	c_att_ranks_3	1,0
 	
-	c_att_skill_4	MB_ATT_FP_SABER_DEFENSE
-	c_att_names_4	"Saber Defense"
-	c_att_ranks_4	0,1
+	c_att_skill_3	MB_ATT_FP_SABER_DEFENSE
+	c_att_names_3	"Saber Defense"
+	c_att_ranks_3	0,1
 	
-	c_att_skill_5	MB_ATT_GUN_DEFENSE
-	c_att_names_5	"Blaster Defense"
-	c_att_ranks_5	0,1	
+	c_att_skill_4	MB_ATT_GUN_DEFENSE
+	c_att_names_4	"Blaster Defense"
+	c_att_ranks_4	0,1	
 	
-	c_att_skill_6	MB_ATT_ARMOUR
-	c_att_names_6	"Armor (80)"
-	c_att_ranks_6	1
+	c_att_skill_5	MB_ATT_ARMOUR
+	c_att_names_5	"Armor (80)"
+	c_att_ranks_5	1
 }
 
 WeaponInfo0
@@ -132,4 +128,5 @@ Highly mobile saberists that can choose between a versatile one-life or speciali
 - Dexterity (3)
 - Healing (1)
 - Force Block/Focus (2)"
+
 
