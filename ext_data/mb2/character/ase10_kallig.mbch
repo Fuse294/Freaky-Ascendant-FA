@@ -12,7 +12,7 @@ classinfo
 	forcepowers	FP_LEVITATION,2|FP_SEE,2|FP_PULL,1|FP_SPEED,1|FP_LIGHTNING,1|FP_SABER_OFFENSE,3|FP_PUSH,1
 	classflags	CFL_NOPICKUPS
 	
-	healthregencap	100
+	//healthregencap	100 < Doesn't seem to work
 	
 	model		"kallig"
 	skin		"default"
