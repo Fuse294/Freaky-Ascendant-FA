@@ -25,7 +25,8 @@ ClassInfo
         tauntAnim               BOTH_BF2RETURN
         saberStanceAnim         BOTH_S1_S1_BR
 		hackrate				0.75	
-		special1			EAS_FP_REPULSE
+		special1			EAS_FP_SABERTHROW
+		special3			EAS_FP_REPULSE
 }
 
 description	"Jedi Knight X2
@@ -37,7 +38,7 @@ Lightsaber
 -- Saber Defense (3)
 -- Blaster Defense (3)
 -- Saber Deflect (3)
--- Saber Throw (3)
+-- Saber Throw (3) ^3[CS1]
 
 Force Powers:
 Force Jump (3)
@@ -47,7 +48,7 @@ Force Speed (2)
 Force Choke (1)
 Force Block (4)
 Force Focus (2)
-Force Repulse ^3[CS1]
+Force Repulse ^3[CS3]
 
 Attributes:
 25% Faster Hacking
