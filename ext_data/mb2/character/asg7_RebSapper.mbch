@@ -102,7 +102,7 @@ hasAnimOverrides 1
 animAttackRun BOTH_MAND_FLAME_READY
 animAttack BOTH_MAND_FLAME_READY
 animAttackWalk BOTH_MAND_FLAME_READY
-rateMod 0.50
+rateMod 0.60
 }
 
 WeaponInfo3
