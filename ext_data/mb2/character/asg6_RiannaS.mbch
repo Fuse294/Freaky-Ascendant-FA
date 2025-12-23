@@ -235,7 +235,7 @@ High DMG melee specials along with droid support and high volume, low DMG weapon
 ^2Weaponry:
 - Hammer of Ryloth (Melee)
 -- Electrifies/Staggers on hit
--- 9000% slower punches
+-- 300% slower punches
 -- 100% more DMG
 - Thorn of Ryloth (Duals) or (Cyan)
 -- No Saber/Blaster Block
@@ -273,4 +273,5 @@ High DMG melee specials along with droid support and high volume, low DMG weapon
 - Gunkick (Hammer of Ryloth) ^3(CS2)
 - Dash (2) ^3(CS3)
 - Dex Roll ^3(CS4)"
+
 
