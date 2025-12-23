@@ -1,7 +1,7 @@
 //Air
 ClassInfo
 {
-	name					"asg3_RebGuerrillaSalvagedDroid"
+	name					"asg4_RebGuerrillaSalvagedDroid"
 	weapons					WP_MELEE|WP_T21|WP_FRAG_NADE
 	attributes				MB_ATT_RECHARGE,1|MB_ATT_MAGNETIC_PLATING,1|MB_ATT_BLAST_ARMOUR|MB_ATT_WOOKIE_STRENGTH,1|MB_ATT_ANTI_MT,1|MB_ATT_FRAGS,1|MB_ATT_ASSEMBLE,1|MB_ATT_TRACKING_BEACON
 	WP_T21Flags HELD_ALTRELOAD|HELD_KNOCKBACK
@@ -69,7 +69,7 @@ MissileMissEffect	"effects/Grenades/EXP_Gas"
 altMissileMissEffect	"effects/Grenades/EXP_Gas"
  //Thank you 2c for the weaponinfo
 }
-description "(Rebel Guerrilla) Salvaged Droid
+description "(Rebel Guerrilla) Salvaged Droid [Wookie]
 
 Air
 
