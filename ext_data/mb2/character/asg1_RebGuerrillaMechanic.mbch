@@ -1,7 +1,7 @@
 //Air
 ClassInfo 
 {
-	name				"asg3_RebGuerrillaMechanic"
+	name				"asg1_RebGuerrillaMechanic"
 	weapons				WP_MELEE|WP_SABER|WP_STUN_BATON
 	attributes			MB_ATT_DISP_ARMOR,1
 	WP_StunBatonFlags HELD_PULSE
@@ -109,4 +109,5 @@ Backliner with the ability to repair armor, low survivability and little combat 
 
 ^3Abilities:
 - Sprint ^3[CS1]"
+
 
