@@ -93,7 +93,7 @@ ClassInfo
 	animAttack BOTH_ATTACK2 
 	animAttackWalk BOTH_ATTACK2
 }
-description "(Rebel Guerrilla) Heavy Gunner
+description "(Rebel Guerrilla) Heavy Gunner [Soldier]
 
 Air
 
@@ -134,4 +134,5 @@ Slow frontliner utilizing limited heavy/ignition/explosive weaponry alongside go
 - Scanner Goggles (Homing Beacon)
 
 ^3Abilities:
+
 - Sprint ^3[CS1]"
