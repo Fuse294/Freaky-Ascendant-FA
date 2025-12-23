@@ -7,8 +7,8 @@ EUAllowed 0
 Classes
 {
 	class1	"h1_Rebel"
-	class2	"asg3_Clone"
-	class3	"asg5_CloneJet"
+	class2	"h3_Clone"
+	class3	"h5_CloneJet"
 	class4	"h7_Scavenge"
 	class5	"h9_JYoung"
 	class6	"h10_JForce"
@@ -17,8 +17,8 @@ Classes
 SubclassesForClass1
 {
 	Subclass1	"h1_NPrisoner"
-	Subclass2	"asg1_RebelET"
-	Subclass3	"asg1_SecurET"
+	Subclass2	"h1_RebelET"
+	Subclass3	"h1_SecurET"
 	Subclass4	"h1_OldRepET"
 	Subclass5 	"h1_TORtroop"
 	Subclass6 	"asg1_SmugPist"
@@ -31,10 +31,9 @@ SubclassesForClass1
 	Subclass13	"h2_Lando"
 	Subclass14	"h2_JanO"
 	Subclass15	"asg2_Carth"
-	Subclass16  "asg2_RebelSabo"
-	Subclass17	"asg2_engineer"
-	Subclass18	"asg2_senator"
-	Subclass19	"asg2_zeb"
+	Subclass16	"asg2_engineer"
+	Subclass17	"asg2_senator"
+	Subclass18	"asg2_zeb"
 }
 
 SubclassesForClass2
@@ -58,13 +57,11 @@ SubclassesForClass2
 	Subclass17 	"h4_KirKanos"
 	Subclass18	"asg3_baodur"
 	subclass19	"asg3_itsatrap"
-	Subclass20 "asg3_P1Clone"
-	Subclass21 "asg3_ReconClone"
 }
 
 SubclassesForClass3
 {
-	Subclass1 	"asg5_NiteOwl"
+	Subclass1 	"h5_NiteOwl"
 	Subclass2	"h5_AstroR2"
 	Subclass3	"h5_Skirata"
 	Subclass4	"asg5_BoKatan"
@@ -110,7 +107,8 @@ SubclassesForClass5
 	Subclass8	"h9_Yarael"
 	Subclass9	"h9_JSword"
 	Subclass10	"h9_JAcrobat"
-	Subclass11	"h9_JBrute"}
+	Subclass11	"h9_JBrute"
+}
 
 SubclassesForClass6
 {
@@ -127,9 +125,8 @@ SubclassesForClass6
 	Subclass11	"asg10_JKindredOne"
 	Subclass12	"asg10_JKindredTwo"
 	Subclass13	"asg10_RahmKota"
-	Subclass14	"asg10_JForce"
-	Subclass15	"asg10_jaden"
-	Subclass16	"asg10_x2"
+	Subclass14	"asg10_jaden"
+	Subclass15	"asg10_x2"
 }
 
 
