@@ -45,15 +45,15 @@ ClassInfo
 	special3 EAS_FP_REPULSE
 
 isCustomBuild	1
-mbPoints	8
+mbPoints	10
 
 	c_att_skill_0	MB_ATT_RESPAWNS
 	c_att_names_0	"Reinforcement"
-	c_att_ranks_0	5
+	c_att_ranks_0	7
 	
 	c_att_skill_1	MB_ATT_PISTOL
 	c_att_names_1	"Heavy Pistol"
-	c_att_ranks_1	1
+	c_att_ranks_1	1,0,2
 	c_att_descs_1 "25% slower RoF, 25% more damage."
 
 	c_att_skill_2	MB_ATT_FP_PUSH
@@ -101,7 +101,7 @@ WeaponInfo1
 	Icon				"gfx/hud/w_icon_scout_pistol" 
 	WeaponName  "Heavy Guardsmen Blaster Pistol"
 	ChargeSound 			"sound/weapons/leia_pistol/altcharge.mp3"
-	customAmmo          420
+	customAmmo          840
 	clipsize            21
 	damageMod 1.25
 	FPmult    1.25
@@ -133,5 +133,3 @@ Highly mobile saberists that can choose between a versatile one-life or speciali
 - Dexterity (3)
 - Healing (1)
 - Force Block/Focus (2)"
-
-
